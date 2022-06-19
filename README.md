@@ -1,1 +1,1 @@
-# firebase_gitaction_slack_ci-cd
+# firebase_gitaction_slack_ci/cd
